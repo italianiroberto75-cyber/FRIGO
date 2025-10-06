@@ -1,0 +1,5 @@
+{
+  "name": "CONGELATORE CASA",
+  "description": "Un'applicazione web per aiutarti a tenere traccia del cibo nel tuo frigorifero. Aggiungi articoli, ottieni suggerimenti sulla data di scadenza con l'IA e riduci gli sprechi alimentari. Tutti i dati sono salvati localmente nel tuo browser.",
+  "requestFramePermissions": []
+}
